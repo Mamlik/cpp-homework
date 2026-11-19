@@ -1,0 +1,8 @@
+[
+  "test_lru_cache.py::test_complex_arguments",
+  "test_lru_cache.py::test_decorator_preserves_function_properties",
+  "test_lru_cache.py::test_exception",
+  "test_lru_cache.py::test_factorial",
+  "test_lru_cache.py::test_lru_property",
+  "test_lru_cache.py::test_stats"
+]
